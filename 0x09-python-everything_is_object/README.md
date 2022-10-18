@@ -41,7 +41,6 @@
 >>> a = 89
 >>> b = a + 1
 ```
-
 * **6. Is equal**
   * [6-answer.txt](./6-answer.txt): What do these 3 lines print?
 ```

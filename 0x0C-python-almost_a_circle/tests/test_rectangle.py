@@ -1,5 +1,9 @@
 # #!/usr/bin/python3
 # # test_rectangle.py
+<<<<<<< HEAD
+=======
+# # Brennan D Baraban <375@holbertonschool.com>
+>>>>>>> 3fbdcfe978e4b2b90135285a4119e3db3d134918
 # """Defines unittests for models/rectangle.py.
 
 # Unittest classes:

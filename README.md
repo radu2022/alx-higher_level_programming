@@ -25,7 +25,7 @@ Thank you for visiting my programming projects. The majority of the code was wri
 - [0x0F-python-object_relational_mapping](0x0F-python-object_relational_mapping)
 - [0x12-javascript-warm_up](0x12-javascript-warm_up)
 - [0x13-javascript_objects_scopes_closures](0x13-javascript_objects_scopes_closures)
-
+- [0x14-javascript-web_scraping](0x14-javascript-web_scraping)
 ----
 
 <div align="center">
